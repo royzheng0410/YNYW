@@ -54,6 +54,7 @@ gem 'simple_form'
 gem 'nested_form'
 
 gem 'nokogiri'
+gem 'turbolinks'
 
 #API
 gem 'jbuilder'

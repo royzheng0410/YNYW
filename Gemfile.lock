@@ -425,6 +425,8 @@ GEM
     thread_safe (0.3.5)
     tilt (2.0.2)
     trollop (2.1.2)
+    turbolinks (2.5.3)
+      coffee-rails
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uglifier (2.6.0)
@@ -491,6 +493,7 @@ DEPENDENCIES
   sitemap_generator
   therubyracer
   thin
+  turbolinks
   uglifier (= 2.6.0)
   unicorn
   views_count (= 0.0.3)

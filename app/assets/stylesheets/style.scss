@@ -1,0 +1,50 @@
+dl {
+  
+}
+
+dd {
+  margin: 0;
+  padding: 1em 0;
+}
+
+dt {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 2em;
+  background: #E3E3E3;
+  border-bottom: 1px solid #c5c5c5;
+  border-top: 1px solid white;
+}
+
+article {
+  width: 600px;
+  margin: auto;
+
+}
+#contact {
+  width: inherit;
+  margin: auto;
+  text-align: center;
+  top: 0;
+  display: none;
+
+}
+blockquote.co{
+  float: right;
+  background: #e3e3e3;
+  font-size: 2em;
+  width: 35%;
+  text-align: center;
+}
+
+p {
+  margin-top: 0;
+}
+
+.content {
+  width: 400px;
+  background: red;
+  padding: 2em;
+  position: relative;
+}
